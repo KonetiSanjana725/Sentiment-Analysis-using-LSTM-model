@@ -5,7 +5,7 @@ A Deep Learning-based **Sentiment Analysis** project that classifies movie revie
 The project covers the complete NLP and Deep Learning workflow including:
 
 * Text preprocessing and tokenization
-* Sequence padding and vocabulary creation
+* Vectorization and Embedding
 * Building and training an LSTM model
 * Binary sentiment classification
 * Model evaluation using accuracy and loss metrics
@@ -20,7 +20,7 @@ This repository is beginner-friendly and helps in understanding the fundamentals
 * NumPy
 * pandas
 * NLTK
-* Jupyter Notebook
+* Google Colab
 
 ## Features
 
